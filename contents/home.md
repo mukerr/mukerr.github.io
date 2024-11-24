@@ -8,8 +8,7 @@ He is currently pursuing a Bachelor's Degree in Mathematics and Physics, at Zhil
 shenyj22[at]mails.tsinghua.edu.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Mathematics and Physics, Tsinghua University, 2022-Current.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
