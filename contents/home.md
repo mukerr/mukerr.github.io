@@ -9,7 +9,7 @@ I am currently pursuing a Bachelor's Degree in Mathematics and Physics, at Zhili
 I am interested in Statistics and Machine Learning.
 
 #### Email
-shenyj22[at]mails.tsinghua.edu.com
+shenyj22[at]mails.tsinghua.edu.cn
 
 #### Education
 B.S., Mathematics and Physics, Tsinghua University, 2022-Current.
