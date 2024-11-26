@@ -1,15 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![mukerr](https://img.shields.io/badge/mukerr-github-blue?logo=github)](https://github.com/mukerr)
 
-He is currently pursuing a Bachelor's Degree in Mathematics and Physics, at Zhili College, Tsinghua University, China.
+Hello! Welcome to my homepage.
+
+I am currently pursuing a Bachelor's Degree in Mathematics and Physics, at Zhili College, Tsinghua University, and minor in Statistics.
+
+I am interested in Statistics and Machine Learning.
 
 #### Email
 shenyj22[at]mails.tsinghua.edu.com
 
 #### Education
-B.E., Mathematics and Physics, Tsinghua University, 2022-Current.
+B.S., Mathematics and Physics, Tsinghua University, 2022-Current.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Causal Inference, Machine Learning ... (waiting to be explored~)
